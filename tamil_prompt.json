@@ -1,0 +1,33 @@
+
+{
+  "subject": "A Tamil woman creating an intricate traditional Pongal festival in a Village courtyard during the Pongal festival",
+  "setting": {
+    "place": "Village, Tamil Nadu, India",
+    "era": "Traditional Tamil heritage Pongal Festival setting",
+    "time_of_day": "Early morning"
+  },
+  "lighting": "Soft natural morning light with warm sunlight entering the courtyard",
+  "camera": {
+    "shot": "Wide shot",
+    "lens": "35mm",
+    "angle": "Eye-level"
+  },
+  "palette": [
+    "Terracotta red",
+    "Traditional turmeric yellow",
+    "Deep maroon",
+    "Ivory white"
+  ],
+  "style": "Photorealistic cinematic photography, authentic Tamil culture, detailed Chettinad architecture, Kanchipuram silk saree, traditional Athangudi floor tiles",
+  "aspect_ratio": "16:9",
+  "avoid": [
+    "North Indian architecture",
+    "Western clothing",
+    "Modern buildings",
+    "Unrealistic jewellery",
+    "Cartoon style",
+    "Distorted hands",
+    "Incorrect kolam patterns",
+    "Text and watermarks"
+  ]
+}
